@@ -1,14 +1,13 @@
 # Readme Generator
-  ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/jagatston/readme-generator?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/jagatston/readme-generator?style=flat&logo=appveyor)
+  ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/jagatston/Readme-generator?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/jagatston/Readme-generator?style=flat&logo=appveyor)
   
   Check out the badges hosted by [shields.io](https://shields.io/).
   
   
   ## Description 
   
-  *The what, why, and how:* 
   
-  Allows a user to follow a simple template to generate a professional readme.
+  Following a simple prompt, the user can have a professional readme generated for themselves.
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -20,13 +19,13 @@
   
   *Steps required to install project and how to get the development environment running:*
   
-  N/A
+  n/a
   
   ## Usage 
   
   *Instructions and examples for use:*
   
-  N/A
+  n/
   
   ## Tests
   
