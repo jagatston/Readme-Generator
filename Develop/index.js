@@ -14,25 +14,21 @@ const questions = [
         type: 'input',
         message: "What is your GitHub username? (No @ needed)",
         name: 'username',
-        default: 'connietran-dev',
     },
     {
         type: 'input',
         message: "What is the name of your GitHub repo?",
         name: 'repo',
-        default: 'readme-generator',
     },
     {
         type: 'input',
         message: "What is the title of your project?",
         name: 'title',
-        default: 'Project Title',
     },
     {
         type: 'input',
         message: "Write a description of your project.",
         name: 'description',
-        default: 'Project Description',
     },
     {
         type: 'input',

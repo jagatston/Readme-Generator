@@ -1,5 +1,5 @@
-# aj
-  ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/ja/ja?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/ja/ja?style=flat&logo=appveyor)
+# Readme Generator
+  ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/jagatston/readme-generator?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/jagatston/readme-generator?style=flat&logo=appveyor)
   
   Check out the badges hosted by [shields.io](https://shields.io/).
   
@@ -8,7 +8,7 @@
   
   *The what, why, and how:* 
   
-  ajja
+  Allows a user to follow a simple template to generate a professional readme.
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -20,31 +20,31 @@
   
   *Steps required to install project and how to get the development environment running:*
   
-  jja
+  N/A
   
   ## Usage 
   
   *Instructions and examples for use:*
   
-  ja
+  N/A
   
   ## Tests
   
   *Tests for application and how to run them:*
   
-  ja
+  npm test
   
   ## License
   
-  Boost Software License 1.0
+  GNU AGPLv3
   
   ---
   
   ## Questions?
   
-  ![Developer Profile Picture](https://avatars.githubusercontent.com/u/2913?v=4) 
+  ![Developer Profile Picture](https://avatars.githubusercontent.com/u/80179565?v=4) 
   
   For any questions, please contact me with the information below:
  
-  GitHub: [@ja](https://api.github.com/users/ja)
+  GitHub: [@jagatston](https://api.github.com/users/jagatston)
   
