@@ -1,5 +1,5 @@
-# jajaja
-  ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/jajaja/jajaja?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/jajaja/jajaja?style=flat&logo=appveyor)
+# aj
+  ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/ja/ja?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/ja/ja?style=flat&logo=appveyor)
   
   Check out the badges hosted by [shields.io](https://shields.io/).
   
@@ -8,7 +8,7 @@
   
   *The what, why, and how:* 
   
-  jajaja
+  ajja
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -20,31 +20,31 @@
   
   *Steps required to install project and how to get the development environment running:*
   
-  jajaj
+  jja
   
   ## Usage 
   
   *Instructions and examples for use:*
   
-  jaja
+  ja
   
   ## Tests
   
   *Tests for application and how to run them:*
   
-  jajaj
+  ja
   
   ## License
   
-  undefined
+  Boost Software License 1.0
   
   ---
   
   ## Questions?
   
-  ![Developer Profile Picture](https://avatars.githubusercontent.com/u/803891?v=4) 
+  ![Developer Profile Picture](https://avatars.githubusercontent.com/u/2913?v=4) 
   
   For any questions, please contact me with the information below:
  
-  GitHub: [@jajaja](https://api.github.com/users/jajaja)
+  GitHub: [@ja](https://api.github.com/users/ja)
   
